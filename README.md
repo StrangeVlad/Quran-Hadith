@@ -6,6 +6,8 @@ A modern web application that allows users to read the Holy Quran and explore au
 
 ---
 
+![Image](images/pexels-djamel-ramdani-84328305-15844943.jpg)
+
 ## 🚀 Features | الميزات
 
 ### User Interface | واجهة المستخدم:
