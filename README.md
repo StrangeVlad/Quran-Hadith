@@ -52,7 +52,7 @@ A modern web application that allows users to read the Holy Quran and explore au
 
    ```
    http://localhost:3000
-
+   dash.infinityfree.com
    ```
 
 ## 🤝 Contributing | المساهمة
