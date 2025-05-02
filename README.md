@@ -1,5 +1,5 @@
 # 🌙 Quran & Hadith Portal | بوابة القرآن والحديث
-
+By StrangeVlad
 A modern web application that allows users to read the Holy Quran and explore authentic Hadiths. It includes a user-friendly interface for regular users and a secure admin panel for managing Hadith entries.
 
 تطبيق ويب حديث يتيح للمستخدمين قراءة القرآن الكريم واستكشاف الأحاديث النبوية الصحيحة، مع واجهة سهلة للمستخدمين ولوحة تحكم آمنة للمديرين لإضافة الأحاديث.
